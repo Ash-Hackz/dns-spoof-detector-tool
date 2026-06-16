@@ -23,8 +23,17 @@ A powerful desktop graphical user interface (GUI) application built in Python de
 
 ### Setup
 1. Clone this repository:
-### Setup
-1. Clone this repository:
 ```bash
 git clone [https://github.com/Ash-Hackz/dns-spoof-detector-tool.git](https://github.com/Ash-Hackz/dns-spoof-detector-tool.git)
 cd dns-spoof-detector-tool
+```
+
+2. Install dependencies:
+```bash
+pip install -r requirements.txt
+```
+
+3. Execute the tool:
+```bash
+python app.py
+```
